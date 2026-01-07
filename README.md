@@ -2,8 +2,7 @@
 
 Um aplicativo web moderno e elegante para gravação de áudio, apresentando uma interface com design **Glassmorphism**, visualizador de áudio em tempo real e animações fluidas.
 
-![Preview](https://via.placeholder.com/800x400?text=Preview+do+App)
-*(Você pode adicionar um screenshot do seu projeto aqui)*
+![Preview](gravadordesom.png)
 
 ## ✨ Funcionalidades
 
